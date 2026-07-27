@@ -1,7 +1,7 @@
 // =====================
 // Unlock Date
 // =====================
-const unlockDate = new Date("July 29, 2026 00:00:00").getTime();
+const unlockDate = new Date("July 9, 2026 00:00:00").getTime();
 
 // Elements
 const days = document.getElementById("days");
